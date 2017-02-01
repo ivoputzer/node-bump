@@ -1,0 +1,22 @@
+{
+  "name": "node-bump",
+  "version": "0.0.0-rc.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "m.test"
+  },
+  "author": "Ivo von Putzer Reibegg <ivo.putzer@gmail.com> (https://github.com/ivoputzer)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivoputzer/node-bump.git"
+  },
+  "keywords": [
+    "bump"
+  ],
+  "bugs": {
+    "url": "https://github.com/ivoputzer/node-bump/issues"
+  },
+  "homepage": "https://github.com/ivoputzer/node-bump#readme",
+  "description": "versioning made simple."
+}
